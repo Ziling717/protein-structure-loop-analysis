@@ -1,0 +1,2 @@
+#!/bin/bash
+pymol ccdex730_8f8e1_relaxed_rank_001_alphafold2_ptm_model_3_seed_000.pml

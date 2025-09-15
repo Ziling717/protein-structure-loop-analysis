@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : 0.0226
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9671
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6584
+HEADER 5  - Mean B-factor of pocket residues  : 0.9741
+HEADER 6  - Hydrophobicity Score              : 29.2000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.7244
+HEADER 10 - Pocket volume (convex hull)       : 7.1186
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   7415  CH2 TRP A 492      14.677   6.465  -1.984  0.00  0.00           C 0
+ATOM   6222  CE2 TRP A 418      12.034   8.744   2.459  0.00  0.00           C 0
+ATOM   6225  NE1 TRP A 418      12.605   9.312   3.578  0.81  3.28           N 0
+ATOM   6229  CZ2 TRP A 418      12.197   8.956   1.080  0.00  0.00           C 0
+ATOM   6922  ND2 ASN A 462      11.583   2.856   2.777  0.00  0.00           N 0
+ATOM   6214   CB TRP A 418      10.328   7.105   5.445  0.00  0.00           C 0
+ATOM   6249  OE1 GLN A 419      12.516   4.184   8.934  0.00  0.00           O 0
+ATOM   6218   CG TRP A 418      11.109   7.891   4.438  0.00  0.00           C 0
+ATOM   6221  CD2 TRP A 418      11.071   7.830   2.983  0.00  0.00           C 0
+ATOM   6219  CD1 TRP A 418      12.049   8.813   4.738  0.00  0.00           C 0
+ATOM   1711  OE1 GLN A 118      16.915  12.144   1.168  0.00  0.00           O 0
+ATOM   6242   CG GLN A 419      10.558   3.403   7.766  0.00  0.00           C 0
+ATOM   6921   CG ASN A 462      11.645   2.966   1.476  0.00  0.00           C 0
+ATOM   7417  CZ2 TRP A 492      13.750   5.423  -2.147  0.00  0.00           C 0
+ATOM   6227  CH2 TRP A 418      11.401   8.229   0.177  0.00  0.00           C 0
+ATOM   6925  OD1 ASN A 462      12.483   2.343   0.829  0.49  9.64           O 0
+TER
+END

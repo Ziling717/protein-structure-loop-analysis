@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1066
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6329
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4026
+HEADER 5  - Mean B-factor of pocket residues  : 0.9934
+HEADER 6  - Hydrophobicity Score              : 6.1111
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 95.1685
+HEADER 10 - Pocket volume (convex hull)       : 0.8774
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   7316  ND1 HIS A 487      -1.507   6.205 -10.343  0.32  3.28           N 0
+ATOM   8074   CA GLY A 535       0.649   2.182 -15.405  0.00  0.00           C 0
+ATOM   8065    O GLU A 534       0.022   1.176 -12.898  0.00  0.00           O 0
+ATOM   7292    O ILE A 486      -2.560   3.157 -10.560  0.00  0.00           O 0
+ATOM   2372   CZ ARG A 163      -5.007   4.355 -14.345  0.00  0.00           C 0
+ATOM   8072    N GLY A 535      -0.409   1.230 -15.094  0.00  0.00           N 0
+ATOM   7317  CE1 HIS A 487      -2.709   6.627 -10.761  0.00  0.00           C 0
+ATOM   3280   CB SER A 225       4.054   7.080 -11.205  0.00  0.00           C 0
+ATOM   7321    N ASN A 488       2.135   3.466  -8.761  0.00  0.00           N 0
+ATOM   8079    N THR A 536       3.020   2.395 -14.914  0.00  0.00           N 0
+ATOM   8086    O THR A 536       4.779   2.190 -12.629  0.54  2.14           O 0
+ATOM   3293    O THR A 226      -0.612   8.086 -12.952  0.51  6.43           O 0
+ATOM   2369  NH2 ARG A 163      -4.722   5.124 -15.357  0.06  6.56           N 0
+ATOM   3286    N THR A 226       2.244   8.300 -13.496  0.56  2.19           N 0
+ATOM   3277   CA SER A 225       4.347   7.359 -12.686  0.00  0.00           C 0
+ATOM   7306   CA HIS A 487      -0.299   3.672  -8.851  0.00  0.00           C 0
+TER
+END
