@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0743
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9980
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5168
+HEADER 5  - Mean B-factor of pocket residues  : 0.9151
+HEADER 6  - Hydrophobicity Score              : 3.8889
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.2499
+HEADER 10 - Pocket volume (convex hull)       : 1.2326
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   8978  ND2 ASN A 604      10.328  -8.024 -24.633  0.00  0.00           N 0
+ATOM   8951   CA GLY A 602      12.916 -13.369 -26.633  0.00  0.00           C 0
+ATOM   8909  CD1 LEU A 599       7.748 -13.016 -26.479  0.00  0.00           C 0
+ATOM   8966  OD1 ASP A 603      14.180  -9.491 -28.614  0.33  3.21           O 0
+ATOM  10356  NH2 ARG A 701      12.342  -8.946 -31.484  0.03  5.47           N 0
+ATOM   8863  OE1 GLU A 596      10.175  -5.746 -26.226  0.52  8.57           O 0
+ATOM  10427  CD1 ILE A 707      10.732 -12.944 -30.956  0.00  0.00           C 0
+ATOM   9363   CG PRO A 631       6.666 -13.243 -31.333  0.00  0.00           C 0
+ATOM  10353  NH1 ARG A 701      10.927  -8.971 -33.210  0.03  6.56           N 0
+ATOM   8981  OD1 ASN A 604      11.537  -9.686 -23.809  0.57  1.07           O 0
+ATOM   8956    N ASP A 603      14.419 -11.463 -26.548  0.00  0.00           N 0
+ATOM   8872    O THR A 597       7.656  -9.066 -24.198  0.59  4.29           O 0
+ATOM   8977   CG ASN A 604      11.471  -8.542 -24.256  0.00  0.00           C 0
+TER
+END

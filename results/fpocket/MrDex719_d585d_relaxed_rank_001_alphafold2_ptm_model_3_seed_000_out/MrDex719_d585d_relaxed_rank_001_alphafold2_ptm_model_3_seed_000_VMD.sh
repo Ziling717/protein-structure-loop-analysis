@@ -1,0 +1,2 @@
+#!/bin/bash
+vmd MrDex719_d585d_relaxed_rank_001_alphafold2_ptm_model_3_seed_000_out.pdb -e MrDex719_d585d_relaxed_rank_001_alphafold2_ptm_model_3_seed_000.tcl

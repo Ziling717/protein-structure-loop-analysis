@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0330
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1092
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6119
+HEADER 5  - Mean B-factor of pocket residues  : 0.9378
+HEADER 6  - Hydrophobicity Score              : 17.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.1666
+HEADER 10 - Pocket volume (convex hull)       : 4.4464
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM   9965   CD GLU A 675      18.569  -5.950 -40.898  0.00  0.00           C 0
+ATOM   9962   CG GLU A 675      19.719  -6.450 -40.003  0.00  0.00           C 0
+ATOM   9983   CB GLU A 677      24.695  -8.753 -44.292  0.00  0.00           C 0
+ATOM   9961    O GLU A 675      23.542  -5.803 -39.323  0.67  8.57           O 0
+ATOM   9958   CB GLU A 675      20.395  -5.324 -39.203  0.00  0.00           C 0
+ATOM   9980   CA GLU A 677      23.707  -9.341 -43.268  0.00  0.00           C 0
+ATOM   9966  OE1 GLU A 675      18.100  -6.748 -41.738  0.00  0.00           O 0
+ATOM   9987   CG GLU A 677      24.228  -8.944 -45.746  0.00  0.00           C 0
+ATOM   9993    N LEU A 678      22.550 -11.469 -43.638  0.58  3.28           N 0
+ATOM   9793    O ALA A 663      15.951 -12.185 -43.048  0.00  0.00           O 0
+ATOM  10001    O LEU A 678      21.544 -12.888 -46.067  0.00  0.00           O 0
+ATOM   9998   CB LEU A 678      21.031 -13.310 -43.139  0.00  0.00           C 0
+ATOM   9978    N GLU A 677      24.047  -8.870 -41.926  0.52  2.19           N 0
+ATOM   9977    O ALA A 676      22.115  -9.565 -41.027  0.71  1.07           O 0
+ATOM   9796   CA ARG A 664      16.747 -11.591 -40.377  0.00  0.00           C 0
+TER
+END

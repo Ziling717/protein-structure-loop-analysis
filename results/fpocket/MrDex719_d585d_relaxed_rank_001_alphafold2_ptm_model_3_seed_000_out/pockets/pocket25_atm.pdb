@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.1249
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9541
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5873
+HEADER 5  - Mean B-factor of pocket residues  : 0.9182
+HEADER 6  - Hydrophobicity Score              : 23.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 296.7976
+HEADER 10 - Pocket volume (convex hull)       : 16.2191
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3200
+ATOM  10128    N THR A 688      31.969  -3.687 -31.794  0.62  1.09           N 0
+ATOM  10140  OG1 THR A 688      33.377  -1.250 -32.240  0.00  0.00           O 0
+ATOM  10111    O ALA A 686      30.146  -4.785 -35.996  0.75  4.29           O 0
+ATOM   9951  OG1 THR A 674      25.081  -2.588 -34.840  0.41  4.29           O 0
+ATOM   9920    O GLN A 672      24.013  -3.251 -30.238  0.38  3.21           O 0
+ATOM   9917   CB GLN A 672      24.488  -0.700 -28.894  0.00  0.00           C 0
+ATOM  10135    O THR A 688      31.336  -3.562 -29.106  0.76  4.29           O 0
+ATOM  10133   CB THR A 688      33.024  -1.619 -30.924  0.00  0.00           C 0
+ATOM  10165   CB PRO A 690      31.985  -0.103 -25.380  0.00  0.00           C 0
+ATOM  10172   CD PRO A 690      31.429  -2.236 -26.278  0.00  0.00           C 0
+ATOM  10136  CG2 THR A 688      34.097  -0.988 -30.030  0.00  0.00           C 0
+ATOM  10114   CA VAL A 687      31.038  -5.281 -33.362  0.00  0.00           C 0
+ATOM  10169   CG PRO A 690      30.830  -1.100 -25.457  0.00  0.00           C 0
+ATOM   9882    O VAL A 669      25.744  -3.297 -26.872  0.31  3.21           O 0
+ATOM   9921   CG GLN A 672      24.543   0.413 -27.835  0.00  0.00           C 0
+ATOM  10120  CG1 VAL A 687      28.860  -6.593 -33.163  0.00  0.00           C 0
+ATOM  10117   CB VAL A 687      30.181  -6.214 -32.491  0.00  0.00           C 0
+ATOM   9880   CB VAL A 669      27.624  -4.999 -28.308  0.00  0.00           C 0
+ATOM   9883  CG1 VAL A 669      28.753  -5.023 -27.264  0.00  0.00           C 0
+ATOM   9887  CG2 VAL A 669      28.049  -5.830 -29.518  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,61 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.1683
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    67
+HEADER 3  - Mean alpha-sphere radius          : 4.0181
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4766
+HEADER 5  - Mean B-factor of pocket residues  : 0.9746
+HEADER 6  - Hydrophobicity Score              : -11.4000
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 725.4788
+HEADER 10 - Pocket volume (convex hull)       : 157.5863
+HEADER 11 - Charge Score                      :    -5
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.1791
+ATOM   2482  OE1 GLU A 176     -23.076  -8.120  -2.820  0.00  0.00           O 0
+ATOM   3273  OD2 ASP A 230     -28.101  -7.397   0.496  0.00  0.00           O 0
+ATOM   2481   CD GLU A 176     -22.802  -7.415  -3.816  0.00  0.00           C 0
+ATOM   2483  OE2 GLU A 176     -22.965  -7.818  -4.996  0.46  6.43           O 0
+ATOM   3300    O ALA A 232     -26.230  -8.489   6.840  0.77  3.21           O 0
+ATOM   3315  OE2 GLU A 233     -22.249  -7.014   4.560  0.00  0.00           O 0
+ATOM   3357   CD ARG A 236     -21.230  -9.784   7.060  0.00  0.00           C 0
+ATOM   3296   CB ALA A 232     -27.835  -9.804   4.230  0.00  0.00           C 0
+ATOM   2490    O GLY A 177     -16.252  -1.884  -3.347  0.45  2.14           O 0
+ATOM   5808   CB ASP A 398     -15.457  -2.075   2.468  0.00  0.00           C 0
+ATOM   6193  OD2 ASP A 422     -14.838  -6.080  -2.175  0.28  8.57           O 0
+ATOM   6187   CB ASP A 422     -13.633  -4.038  -1.923  0.00  0.00           C 0
+ATOM   2455   OH TYR A 174     -25.448  -2.421  -4.212  0.70  6.43           O 0
+ATOM   3271   CG ASP A 230     -27.953  -6.524   1.375  0.00  0.00           C 0
+ATOM   3267   CB ASP A 230     -28.583  -5.154   1.087  0.00  0.00           C 0
+ATOM   5300  NE2 GLN A 364     -18.553  -2.380   5.519  0.42  7.66           N 0
+ATOM   3314  OE1 GLU A 233     -21.026  -5.225   4.781  0.56  2.14           O 0
+ATOM   5802  OD2 ASP A 397     -17.024  -6.121   4.118  0.61  2.14           O 0
+ATOM   3365  NH2 ARG A 236     -19.318  -7.252   5.254  0.38  4.37           N 0
+ATOM   3313   CD GLU A 233     -22.121  -5.767   4.556  0.00  0.00           C 0
+ATOM   3306   CB GLU A 233     -24.657  -5.546   4.182  0.00  0.00           C 0
+ATOM   3310   CG GLU A 233     -23.321  -4.829   4.386  0.00  0.00           C 0
+ATOM   3233   CB ALA A 227     -22.256  -1.014  -1.855  0.00  0.00           C 0
+ATOM   3237    O ALA A 227     -22.579   0.263   0.998  0.61  7.50           O 0
+ATOM   3295    C ALA A 232     -26.758  -8.123   5.790  0.00  0.00           C 0
+ATOM   3301    N GLU A 233     -26.282  -7.132   5.046  0.72  1.09           N 0
+ATOM   3249   CA PRO A 229     -25.639  -1.818   3.115  0.00  0.00           C 0
+ATOM   3262    N ASP A 230     -27.228  -3.461   2.273  0.60  2.19           N 0
+ATOM   6180   OG SER A 421     -13.876  -8.217  -0.359  0.00  0.00           O 0
+ATOM   5796   CB ASP A 397     -15.036  -6.860   3.024  0.00  0.00           C 0
+ATOM   5803    N ASP A 398     -13.766  -3.844   2.343  0.65  1.09           N 0
+ATOM   2478   CG GLU A 176     -22.276  -5.980  -3.582  0.00  0.00           C 0
+ATOM   2477    O GLU A 176     -20.134  -3.341  -2.802  0.00  0.00           O 0
+ATOM   2486   CA GLY A 177     -17.684  -3.666  -4.127  0.00  0.00           C 0
+ATOM   5812   CG ASP A 398     -15.776  -0.644   2.062  0.00  0.00           C 0
+ATOM   5814  OD2 ASP A 398     -16.631   0.009   2.691  0.63  1.07           O 0
+ATOM   3272  OD1 ASP A 230     -27.519  -6.767   2.521  0.00  0.00           O 0
+ATOM   3228    N ALA A 227     -20.837   0.867  -1.186  0.64  1.09           N 0
+ATOM   3247    O ALA A 228     -25.819  -0.951   0.470  0.58  4.29           O 0
+TER
+END

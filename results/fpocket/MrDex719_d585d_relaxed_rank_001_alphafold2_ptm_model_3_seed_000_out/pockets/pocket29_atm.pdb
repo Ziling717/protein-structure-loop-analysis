@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.1514
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8478
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5023
+HEADER 5  - Mean B-factor of pocket residues  : 0.9903
+HEADER 6  - Hydrophobicity Score              : 13.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.8163
+HEADER 10 - Pocket volume (convex hull)       : 6.9115
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM   3466  OD2 ASP A 243     -26.800  -6.801  16.782  0.60  3.21           O 0
+ATOM   3332   CA GLU A 235     -27.408  -7.276  10.222  0.00  0.00           C 0
+ATOM   3390    O ILE A 238     -25.858  -3.997  13.678  0.49  2.14           O 0
+ATOM   3338    O GLU A 235     -25.669  -8.123  11.664  0.56  8.57           O 0
+ATOM   3424  CG2 THR A 240     -29.224  -3.631  15.666  0.00  0.00           C 0
+ATOM   3394  CG2 ILE A 238     -25.663  -0.666  12.804  0.00  0.00           C 0
+ATOM   3324  CG2 THR A 234     -28.734  -2.835   9.191  0.00  0.00           C 0
+ATOM   3428  OG1 THR A 240     -29.430  -5.480  17.189  0.00  0.00           O 0
+ATOM   3323    O THR A 234     -26.227  -4.738  10.274  0.00  0.00           O 0
+ATOM   3339   CG GLU A 235     -29.842  -8.060   9.939  0.00  0.00           C 0
+ATOM   3335   CB GLU A 235     -28.351  -8.445   9.861  0.00  0.00           C 0
+ATOM   3465  OD1 ASP A 243     -26.147  -8.919  16.512  0.00  0.00           O 0
+ATOM   3344  OE2 GLU A 235     -30.442 -10.331   9.312  0.00  0.00           O 0
+ATOM   3450   CB ALA A 242     -30.844  -8.173  18.764  0.00  0.00           C 0
+TER
+END
