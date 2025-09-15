@@ -1,0 +1,2 @@
+Enzyme,Residues_N,PAE_global_mean_A,PAE_loop_loop_mean_A,PAE_loop_core_mean_A,PAE_core_core_mean_A,PAE_json_file,PAE_png_file
+KQ,640,6.78,,,6.78,KQ640_4bd1f_predicted_aligned_error_v1.json,KQ_rank1_PAE_heatmap.png

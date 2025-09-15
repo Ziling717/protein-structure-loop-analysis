@@ -1,0 +1,7 @@
+Enzyme,ModelFileName,Mean_pLDDT,Residues_gt70_%,Residues_gt90_%,Length_CA,FASTA_length,State,★
+ipu,ipu549_182d2_relaxed_rank_001_alphafold2_ptm_model_3_seed_000.pdb,95.74,98.5,92.3,549,549,relaxed,★
+ipu,ipu549_182d2_unrelaxed_rank_001_alphafold2_ptm_model_3_seed_000.pdb,95.74,98.5,92.3,549,549,unrelaxed,
+ipu,ipu549_182d2_unrelaxed_rank_002_alphafold2_ptm_model_5_seed_000.pdb,95.18,98.2,90.7,549,549,unrelaxed,
+ipu,ipu549_182d2_unrelaxed_rank_003_alphafold2_ptm_model_4_seed_000.pdb,95.16,99.3,90.9,549,549,unrelaxed,
+ipu,ipu549_182d2_unrelaxed_rank_004_alphafold2_ptm_model_1_seed_000.pdb,94.13,98.0,86.9,549,549,unrelaxed,
+ipu,ipu549_182d2_unrelaxed_rank_005_alphafold2_ptm_model_2_seed_000.pdb,93.58,96.2,84.2,549,549,unrelaxed,

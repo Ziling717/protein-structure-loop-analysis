@@ -1,0 +1,7 @@
+Enzyme,ModelFileName,Mean_pLDDT,Residues_gt70_%,Residues_gt90_%,Length_CA,FASTA_length,State,Loop_392-402_mean,Loop_392-402_min,Loop_392-402_max,Loop_392-402_n,★
+BfIMTD,BAA763821BfIMTD_989bc_relaxed_rank_001_alphafold2_ptm_model_1_seed_000.pdb,93.3,92.8,91.7,641,641,relaxed,91.98,85.94,95.56,11,★
+BfIMTD,BAA763821BfIMTD_989bc_unrelaxed_rank_001_alphafold2_ptm_model_1_seed_000.pdb,93.3,92.8,91.7,641,641,unrelaxed,91.98,85.94,95.56,11,
+BfIMTD,BAA763821BfIMTD_989bc_unrelaxed_rank_002_alphafold2_ptm_model_2_seed_000.pdb,93.27,92.8,91.0,641,641,unrelaxed,91.04,85.12,95.12,11,
+BfIMTD,BAA763821BfIMTD_989bc_unrelaxed_rank_003_alphafold2_ptm_model_4_seed_000.pdb,92.57,93.0,91.0,641,641,unrelaxed,92.74,88.38,95.12,11,
+BfIMTD,BAA763821BfIMTD_989bc_unrelaxed_rank_004_alphafold2_ptm_model_3_seed_000.pdb,92.53,93.0,91.3,641,641,unrelaxed,93.8,90.25,96.0,11,
+BfIMTD,BAA763821BfIMTD_989bc_unrelaxed_rank_005_alphafold2_ptm_model_5_seed_000.pdb,92.4,92.8,91.3,641,641,unrelaxed,93.48,89.12,95.69,11,

@@ -1,0 +1,2 @@
+Enzyme,Residues_N,PAE_global_mean_A,PAE_loop_loop_mean_A,PAE_loop_core_mean_A,PAE_core_core_mean_A,PAE_json_file,PAE_png_file
+mrdex,719,7.44,1.96,8.35,7.41,MrDex719_d585d_predicted_aligned_error_v1.json,mrdex_rank1_PAE_heatmap.png

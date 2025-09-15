@@ -1,0 +1,6 @@
+Enzyme,Residues_N,PAE_global_mean_A,PAE_loop_loop_mean_A,PAE_loop_core_mean_A,PAE_core_core_mean_A,PAE_json_file,PAE_png_file,__source__
+BfIMTD,641,6.15,1.58,6.75,6.13,BAA763821BfIMTD_989bc_predicted_aligned_error_v1.json,BfIMTD_rank1_PAE_heatmap.png,BfIMTD_pae_summary.csv
+KQ,640,6.78,,,6.78,KQ640_4bd1f_predicted_aligned_error_v1.json,KQ_rank1_PAE_heatmap.png,KQ_pae_summary.csv
+ccdex,730,7.33,1.52,7.28,7.33,ccdex730_8f8e1_predicted_aligned_error_v1.json,ccdex_rank1_PAE_heatmap.png,ccdex_pae_summary.csv
+ipu,549,4.04,,,4.04,ipu549_182d2_predicted_aligned_error_v1.json,ipu_rank1_PAE_heatmap.png,ipu_pae_summary.csv
+mrdex,719,7.44,1.96,8.35,7.41,MrDex719_d585d_predicted_aligned_error_v1.json,mrdex_rank1_PAE_heatmap.png,mrdex_pae_summary.csv
