@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0391
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8455
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5201
+HEADER 5  - Mean B-factor of pocket residues  : 0.9585
+HEADER 6  - Hydrophobicity Score              : -12.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.4106
+HEADER 10 - Pocket volume (convex hull)       : 4.2913
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   6163  NH1 ARG A 404       7.725  21.825   8.767  0.00  0.00           N 0
+ATOM   5613   CA GLY A 369       1.343  25.886   5.671  0.00  0.00           C 0
+ATOM   6169   CZ ARG A 404       7.657  22.031   7.481  0.00  0.00           C 0
+ATOM   5648  NE2 GLN A 371       2.809  21.804  11.295  0.00  0.00           N 0
+ATOM   5616    C GLY A 369       0.180  25.105   6.271  0.00  0.00           C 0
+ATOM   5618    N GLN A 370       0.073  23.834   5.888  0.00  0.00           N 0
+ATOM   5617    O GLY A 369      -0.558  25.628   7.105  0.76  6.43           O 0
+ATOM   5644   CG GLN A 371       1.569  20.573   9.593  0.00  0.00           C 0
+ATOM   6120    O ASN A 402       1.818  23.016   3.685  0.63  1.07           O 0
+ATOM   6161   NE ARG A 404       6.818  21.369   6.714  0.43  1.09           N 0
+ATOM   6158   CD ARG A 404       5.818  20.389   7.169  0.00  0.00           C 0
+ATOM   6166  NH2 ARG A 404       8.453  22.926   6.971  0.00  0.00           N 0
+ATOM   6125  OD1 ASN A 402       5.972  25.107   2.462  0.52  8.57           O 0
+ATOM   6117   CB ASN A 402       3.605  24.768   2.387  0.00  0.00           C 0
+ATOM   5626    O GLN A 370       0.827  21.213   6.281  0.00  0.00           O 0
+TER
+END

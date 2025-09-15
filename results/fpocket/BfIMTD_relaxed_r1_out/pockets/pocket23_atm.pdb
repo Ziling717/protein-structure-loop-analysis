@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0170
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9367
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5486
+HEADER 5  - Mean B-factor of pocket residues  : 0.9997
+HEADER 6  - Hydrophobicity Score              : -1.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.1934
+HEADER 10 - Pocket volume (convex hull)       : 3.4886
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   6569   CB THR A 430       7.356  11.619   8.580  0.00  0.00           C 0
+ATOM   6576  OG1 THR A 430       6.314  12.131   9.374  0.00  0.00           O 0
+ATOM   6613   NZ LYS A 432       6.981   7.793  15.042  0.00  0.00           N 0
+ATOM   6572  CG2 THR A 430       8.461  12.680   8.584  0.00  0.00           C 0
+ATOM   6607   CD LYS A 432       7.014   6.571  12.877  0.00  0.00           C 0
+ATOM   6906  CG2 THR A 451      12.186   9.225   7.252  0.00  0.00           C 0
+ATOM   6586    O MET A 431       7.196   6.291   7.509  0.00  0.00           O 0
+ATOM   6905    O THR A 451       8.837   9.106   5.711  0.00  0.00           O 0
+ATOM   6600   CB LYS A 432       6.876   5.287  10.702  0.00  0.00           C 0
+ATOM   6604   CG LYS A 432       6.096   6.083  11.758  0.00  0.00           C 0
+ATOM   6936   CB ASP A 453      10.751   4.323   8.977  0.00  0.00           C 0
+ATOM   6610   CE LYS A 432       6.160   7.315  13.909  0.00  0.00           C 0
+ATOM   6200  OD1 ASN A 406       3.943  11.390  11.508  0.61  3.21           O 0
+ATOM   6582    C MET A 431       6.067   6.619   7.861  0.00  0.00           C 0
+ATOM   6578    N MET A 431       6.243   8.928   7.041  0.00  0.00           N 0
+TER
+END

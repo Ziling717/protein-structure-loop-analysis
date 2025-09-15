@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.0388
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8272
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4851
+HEADER 5  - Mean B-factor of pocket residues  : 0.9910
+HEADER 6  - Hydrophobicity Score              : -5.8750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 206.1702
+HEADER 10 - Pocket volume (convex hull)       : 5.9069
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3945    N GLU A 260     -25.227   8.724  13.697  0.59  3.28           N 0
+ATOM   3954   CG GLU A 260     -27.874   8.594  15.251  0.00  0.00           C 0
+ATOM   4046  OD2 ASP A 266     -27.218  13.862   8.745  0.47  7.50           O 0
+ATOM   3950   CB GLU A 260     -27.395   7.626  14.150  0.00  0.00           C 0
+ATOM   3907  CE1 HIS A 257     -24.193  14.482  12.881  0.00  0.00           C 0
+ATOM   3918    O TYR A 258     -23.846  11.344  15.641  0.00  0.00           O 0
+ATOM   3909  NE2 HIS A 257     -23.367  13.835  12.048  0.52  1.09           N 0
+ATOM   4005  CG1 VAL A 264     -23.739   8.049   8.590  0.00  0.00           C 0
+ATOM   3935   CB PRO A 259     -22.553   9.753  11.918  0.00  0.00           C 0
+ATOM   4045  OD1 ASP A 266     -25.537  12.814   7.720  0.65  2.14           O 0
+ATOM   3990    O GLU A 263     -27.085   7.724   7.522  0.00  0.00           O 0
+ATOM   3953    O GLU A 260     -25.219   6.608  11.915  0.57  2.14           O 0
+ATOM   3968    O GLU A 261     -27.462   4.173  11.809  0.50  4.29           O 0
+ATOM   3932   CA PRO A 259     -23.309  10.152  13.190  0.00  0.00           C 0
+TER
+END
