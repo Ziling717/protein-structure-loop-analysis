@@ -1,0 +1,41 @@
+### Predictions made by DeepFRI.,,,
+,,,
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+,,,
+BfIMTD_relaxed_r1,GO:0030246,0.2051,carbohydrate binding
+,,,
+BfIMTD_relaxed_r1,GO:0004553,0.16499,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+,,,
+BfIMTD_relaxed_r1,GO:0005215,0.14887,transporter activity
+,,,
+BfIMTD_relaxed_r1,GO:0016798,0.14607,"hydrolase activity, acting on glycosyl bonds"
+,,,
+BfIMTD_relaxed_r1,GO:0022857,0.11384,transmembrane transporter activity
+,,,
+ccdex730_relaxed_r1,GO:0030246,0.40648,carbohydrate binding
+,,,
+ccdex730_relaxed_r1,GO:0004553,0.29324,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+,,,
+ccdex730_relaxed_r1,GO:0016798,0.2776,"hydrolase activity, acting on glycosyl bonds"
+,,,
+ipu549_relaxed_r1,GO:0004553,0.32897,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+,,,
+ipu549_relaxed_r1,GO:0030246,0.31967,carbohydrate binding
+,,,
+ipu549_relaxed_r1,GO:0016798,0.31003,"hydrolase activity, acting on glycosyl bonds"
+,,,
+input_dpfri\KQ640_relaxed_r1,GO:0016798,0.21917,"hydrolase activity, acting on glycosyl bonds"
+,,,
+KQ640_relaxed_r1,GO:0030246,0.19205,carbohydrate binding
+,,,
+KQ640_relaxed_r1,GO:0004553,0.18265,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+,,,
+MrDex719_relaxed_r1,GO:0030246,0.28221,carbohydrate binding
+,,,
+MrDex719_relaxed_r1,GO:0005215,0.13819,transporter activity
+,,,
+MrDex719_relaxed_r1,GO:0004553,0.11496,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+,,,
+MrDex719_relaxed_r1,GO:0016798,0.11107,"hydrolase activity, acting on glycosyl bonds"
+,,,
+MrDex719_relaxed_r1,GO:0022857,0.10036,transmembrane transporter activity

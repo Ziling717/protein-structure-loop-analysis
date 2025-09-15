@@ -1,0 +1,10 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+D:\pro_pred\input\input_dpfri\BfIMTD_relaxed_r1,1.4.3.-,0.16221,1.4.3.-
+D:\pro_pred\input\input_dpfri\BfIMTD_relaxed_r1,3.2.1.-,0.10430,3.2.1.-
+D:\pro_pred\input\input_dpfri\ccdex730_relaxed_r1,3.2.1.-,0.95402,3.2.1.-
+D:\pro_pred\input\input_dpfri\ipu549_relaxed_r1,3.2.1.-,0.88862,3.2.1.-
+D:\pro_pred\input\input_dpfri\KQ640_relaxed_r1,3.2.1.-,0.73192,3.2.1.-
+D:\pro_pred\input\input_dpfri\KQ640_relaxed_r1,3.4.21.-,0.22694,3.4.21.-
+D:\pro_pred\input\input_dpfri\MrDex719_relaxed_r1,3.2.1.-,0.39793,3.2.1.-
+D:\pro_pred\input\input_dpfri\MrDex719_relaxed_r1,1.4.3.-,0.14544,1.4.3.-
